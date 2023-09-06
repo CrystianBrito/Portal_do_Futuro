@@ -1,0 +1,4 @@
+#cor_de_fundo{
+    background: rgb(255,87,87);
+    background: linear-gradient(90deg, rgba(255,87,87,1) 0%, rgba(140,82,255,1) 50%);
+}
